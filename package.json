@@ -1,0 +1,37 @@
+{
+    "name": "neptune-theme",
+    "displayName": "Neptune Theme",
+    "description": "The theme designed on VSCode, it's a dark theme.",
+    "version": "0.0.1",
+    "publisher": "FireMegrez",
+    "author": "FireMegrez",
+    "icon": "./icon.png",
+    "galleryBanner": {
+        "color": "1a1a1a",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FireMegrez/Neptune-theme"
+    },
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "keywords": [
+        "theme",
+        "dark"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neptune (theme)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme.json"
+            }
+        ]
+    }
+}
