@@ -11,3 +11,4 @@
 ## Contribute
 
 # License
+[License](./LICENSE)
