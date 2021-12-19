@@ -23,7 +23,8 @@
     ],
     "keywords": [
         "theme",
-        "dark"
+        "dark",
+        "neptune"
     ],
     "contributes": {
         "themes": [
