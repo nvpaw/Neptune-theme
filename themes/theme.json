@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "",
+	"name": "Neptune",
 	"type": "dark",
 	"colors": {
 		"foreground": "#9092a4",
