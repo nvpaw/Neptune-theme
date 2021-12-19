@@ -115,20 +115,15 @@
 		// "editor.selectionForeground": "#f00",
 		"editor.inactiveSelectionBackground": "#393b49", //2
 		"editor.selectionHighlightBackground": "#20212a", //1
-		// "editor.selectionHighlightBorder": "#f00",
 		"editor.wordHighlightBackground": "#393b496f", //2
-		// "editor.wordHighlightBorder": "#f00".
 		"editor.wordHighlightStrongBackground": "#53566a6f", //3
-		// "editor.wordHighlightStrongBorder": "#f00",
 		"editor.findMatchBackground": "#6cc49c6f", //A
 		"editor.findMatchHighlightBackground": "#ced2f56f", //9
 		"editor.findRangeHighlightBackground": "#20212a6f", //1
 		"editor.hoverHighlightBackground": "#393b496f", //2
 		"editor.lineHighlightBackground": "#20212a", //1
-		// "editor.lineHighlightBorder": "#f00",
 		"editorLink.activeForeground": "#f5c9d1", //D
 		"editor.rangeHighlightBackground": "#20212a6f", //1
-		// "editor.rangeHighlightBorder": "#f00",
 		"editorWhitespace.foreground": "#53566a", //3
 		"editorIndentGuide.background": "#53566a", //3
 		"editorIndentGuide.activeBackground": "#70738a", //4
@@ -284,50 +279,31 @@
 		"terminalCursor.foreground": "#9092a4", //5
 		// Debug
 		"debugToolBar.background": "#20212a", //1
-		// "debugToolBar.border": "#f0f",
-		// "editor.stackFrameHighlightBackground": "#f0f",
-		// "editor.focusedStackFrameHighlightBackground": "#f0f",
-		// Welcome page
 		"welcomePage.background": "#030405", //0
 		"walkThrough.embeddedEditorBackground": "#030405", //0
-		// Git colors
 		"gitDecoration.modifiedResourceForeground": "#c3e06e", // "#d6aa17de", //E
 		"gitDecoration.deletedResourceForeground": "#c3e06e", //"#f00", //8
 		"gitDecoration.untrackedResourceForeground": "#c3e06e", //"#68ad2e", //B
 		"gitDecoration.ignoredResourceForeground": "#53566a", //3
 		"gitDecoration.conflictingResourceForeground": "#6cc49c", //A
 		"gitDecoration.submoduleResourceForeground": "#c3e06e", //F
-		// Settings editor colors
 		"settings.headerForeground": "#9092a4", //5
 		"settings.modifiedItemIndicator": "#f5c9d1", //D
-		// Below was introduced temporarily in 1.26
-		// Above was introduced temporarily in 1.26
 		"settings.dropdownBackground": "#20212a", //1
 		"settings.dropdownForeground": "#9092a4", //5
-		// "settings.dropdownBorder": "",
-		// "settings.dropdownListBorder": "",
 		"settings.checkboxBackground": "#20212a", //1
 		"settings.checkboxForeground": "#9092a4", //5
-		// "settings.checkboxBorder": "",
 		"settings.textInputBackground": "#20212a", //1
 		"settings.textInputForeground": "#9092a4", //5
-		// "settings.textInputBorder": "",
 		"settings.numberInputBackground": "#20212a", //1
 		"settings.numberInputForeground": "#9092a4", //5
-		// "settings.numberInputBorder": "",
-		// "settings.inactiveSelectedItemBorder": "",
-		// Breadcrumbs
 		"breadcrumb.foreground": "#70738a", //5
 		"breadcrumb.background": "#030405", //1
 		"breadcrumb.focusForeground": "#b1b3bf", //6
-		"breadcrumb.activeSelectionForeground": "#d3d4db", //7
-		"breadcrumbPicker.background": "#20212a", //1
-		// Snippets
-		"editor.snippetTabstopHighlightBackground": "#393b49", //2
-		// "editor.snippetTabstopHighlightBorder": "#f00",
-		"editor.snippetFinalTabstopHighlightBackground": "#53566a", //3
-		// "editor.snippetFinalTabstopHighlightBorder": "#f00",
-		// Symbol Icons
+		"breadcrumb.activeSelectionForeground": "#d3d4db",
+		"breadcrumbPicker.background": "#20212a",
+		"editor.snippetTabstopHighlightBackground": "#393b49",
+		"editor.snippetFinalTabstopHighlightBackground": "#53566a",
 		"symbolIcon.arrayForeground": "#9092a4", //5
 		"symbolIcon.booleanForeground": "#ced2f5", //9
 		"symbolIcon.classForeground": "#6cc49c", //A
@@ -431,7 +407,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#f2b663" //maybe
+				"foreground": "#f2b663"
 			}
 		},
 		{
