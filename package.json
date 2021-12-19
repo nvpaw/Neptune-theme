@@ -2,9 +2,10 @@
     "name": "thatneptunetheme",
     "displayName": "Neptune Theme",
     "description": "The theme designed on VSCode, it's a dark theme.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "FireMegrez",
     "author": "FireMegrez",
+    "icon": "./icon.png",
     "galleryBanner": {
         "color": "1a1a1a",
         "theme": "dark"
