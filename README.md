@@ -7,7 +7,8 @@
 ## Install
 
 ## Usage
-
+- Ctrl + K Ctrl + T
+- Set the theme to **Neptune (theme)**
 ## Contribute
 
 # License
