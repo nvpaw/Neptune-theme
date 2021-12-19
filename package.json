@@ -5,7 +5,7 @@
     "version": "0.0.1",
     "publisher": "FireMegrez",
     "author": "FireMegrez",
-    "icon": "",
+    "icon": "./icon.png",
     "galleryBanner": {
         "color": "1a1a1a",
         "theme": "dark"
