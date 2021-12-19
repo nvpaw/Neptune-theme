@@ -7,6 +7,7 @@
 ## Install
 
 ## Usage
+- Open Visual Studio Code
 - Ctrl + K Ctrl + T
 - Set the theme to **Neptune (theme)**
 ## Contribute
