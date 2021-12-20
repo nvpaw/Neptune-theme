@@ -1,17 +1,13 @@
-# Neptune Theme
+<div align="center">
 
-![screenshot](https://user-images.githubusercontent.com/95512568/146673040-573f1798-f2e9-4bf1-a2ec-e9762ebe8d5d.png)
+![screenshot-1-neptune](https://user-images.githubusercontent.com/95512568/146696881-1122ce89-534b-41b3-aafe-3ab0f8d56a0d.png)
+</br>
+</br>
+  
+Dowload _Neptune theme_ from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatneptunetheme)
+</br>
+</br>
+  
+![screenshot-2-neptune](https://user-images.githubusercontent.com/95512568/146696987-0429f3b7-8ee1-4668-82f7-db0267caad2e.png)
 
-## About
-- A dark theme for VSCode
-## Install
-- [Click here](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatneptunetheme)
-## Usage
-- Open Visual Studio Code
-- Ctrl + K Ctrl + T
-- Set the theme to **Neptune (theme)**
-## Contribute
-- [Click here](https://github.com/FireMegrez/Neptune-theme/issues)
-
-# License
-[MIT License](./LICENSE)
+</div>
