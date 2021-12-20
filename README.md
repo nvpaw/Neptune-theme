@@ -4,7 +4,7 @@
 </br>
 </br>
   
-Dowload _Neptune theme_ from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatneptunetheme)
+Dowload _Neptune Theme_ from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=FireMegrez.thatneptunetheme)
 </br>
 </br>
   
