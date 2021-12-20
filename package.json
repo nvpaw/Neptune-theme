@@ -1,8 +1,8 @@
 {
     "name": "thatneptunetheme",
     "displayName": "Neptune Theme",
-    "description": "The theme designed on VSCode, it's a dark theme.",
-    "version": "0.0.4",
+    "description": "Theme designed on VS Code - A dark theme",
+    "version": "0.0.6",
     "publisher": "FireMegrez",
     "author": "FireMegrez",
     "galleryBanner": {
